@@ -35,7 +35,7 @@ All MAD workshops are taught by fellow UT students! This semester they'll be tau
 |---|---|---|---|
 |<img src="/instructors/ryan.jpg" width="200px" />|Ryan Menghani|[menghaniryan@gmail.com](mailto:menghaniryan@gmail.com)|I apparently laugh while I sleep.|
 |<img src="/instructors/rishabh.jpg" width="200px" />|Rishabh Thakkar|[rishabh.thakkar@gmail.com](mailto:rishabh.thakkar@gmail.com)|...|
-|<img src="/instructors/avinash.jpg" width="200px" />|Avinash Damania|[adamania99@gmail.com](mailto:adamania99@gmail.com)|...|
+|<img src="/instructors/42A66084-2169-4D15-80A6-E01A8319B1DC.jpeg" width="200px" />|Avinash Damania|[adamania99@gmail.com](mailto:adamania99@gmail.com)|...|
 
 ## What should I do if I miss a workshop?
 
