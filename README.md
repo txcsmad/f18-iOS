@@ -33,13 +33,6 @@ All MAD workshops are taught by fellow UT students! This semester they'll be tau
 
 |Photo|Instructor|Email|Fun fact|
 |---|---|---|---|
-|<img src="/instructors/jesse.jpg" width="200px" />|Jesse Tipton|[jessetipton@utexas.edu](mailto:jessetipton@utexas.edu)|Jesse took a high school Spanish class with Post Malone.|
-|<img src="/instructors/matt.jpg" width="200px" />|Matt Ruston|[matt@rustonmail.com](mailto:matt@rustonmail.com)|Matt is an avid fan of squirrels.|
-
-### TAs
-
-|Photo|Instructor|Email|Fun fact|
-|---|---|---|---|
 |<img src="/instructors/ryan.jpg" width="200px" />|Ryan Menghani|[menghaniryan@gmail.com](mailto:menghaniryan@gmail.com)|...|
 |<img src="/instructors/rishabh.jpg" width="200px" />|Rishabh Thakkar|[rishabh.thakkar@gmail.com](mailto:rishabh.thakkar@gmail.com)|...|
 |<img src="/instructors/avinash.jpg" width="200px" />|Avinash Damania|[adamania99@gmail.com](mailto:adamania99@gmail.com)|...|
