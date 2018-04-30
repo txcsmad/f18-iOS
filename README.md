@@ -2,13 +2,13 @@
 
 ## What is this?
 
-These are the materials for MAD's Spring 2018 iOS Workshops. MAD (Mobile App Development) is an organization of students teaching students Android, iOS, and web development. To learn more, check out [our website](https://www.txcsmad.com) or join our [Facebook group](https://www.facebook.com/groups/MADstudentorg).
+These are the materials for MAD's Fall 2018 iOS Workshops. MAD (Mobile App Development) is an organization of students teaching students Android, iOS, and web development. To learn more, check out [our website](https://www.txcsmad.com) or join our [Facebook group](https://www.facebook.com/groups/MADstudentorg).
 
 ## When and where is this?
 
 |Day|Time|Location|
 |---|---|---|
-|Every Monday|7:00 PM–8:30 PM|GDC 4.304|
+|TBA|TBA|TBA|
 
 ## What do I need?
 
