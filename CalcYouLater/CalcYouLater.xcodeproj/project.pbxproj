@@ -13,6 +13,7 @@
 		C84EECDE214B16C000F7972D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C84EECDD214B16C000F7972D /* Assets.xcassets */; };
 		C84EECE1214B16C000F7972D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84EECDF214B16C000F7972D /* LaunchScreen.storyboard */; };
 		C84EECE9214B243100F7972D /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84EECE8214B243100F7972D /* RoundButton.swift */; };
+		E13EB14821545BB100728753 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13EB14721545BB100728753 /* Operation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C84EECE0214B16C000F7972D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C84EECE2214B16C000F7972D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C84EECE8214B243100F7972D /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		E13EB14721545BB100728753 /* Operation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C84EECD6214B16BF00F7972D /* AppDelegate.swift */,
 				C84EECD8214B16BF00F7972D /* ViewController.swift */,
 				C84EECDA214B16BF00F7972D /* Main.storyboard */,
+				E13EB14721545BB100728753 /* Operation.swift */,
 				C84EECE8214B243100F7972D /* RoundButton.swift */,
 				C84EECDD214B16C000F7972D /* Assets.xcassets */,
 				C84EECDF214B16C000F7972D /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				C84EECE9214B243100F7972D /* RoundButton.swift in Sources */,
 				C84EECD9214B16BF00F7972D /* ViewController.swift in Sources */,
 				C84EECD7214B16BF00F7972D /* AppDelegate.swift in Sources */,
+				E13EB14821545BB100728753 /* Operation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
