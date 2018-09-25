@@ -34,15 +34,14 @@ class ViewController: UIViewController {
             view.backgroundColor = .black
             Toggle.setTitleColor(.white, for: .normal)
             Toggle.setTitle("On", for: .normal)
-            isLightOn = false
             print(preferredStatusBarStyle)
         } else {
             view.backgroundColor = .white
             Toggle.setTitleColor(.black, for: .normal)
             Toggle.setTitle("Off", for: .normal)
-            isLightOn = true
             print(preferredStatusBarStyle)
         }
+        isLightOn = !isLightOn
         setNeedsStatusBarAppearanceUpdate()
     }
     
